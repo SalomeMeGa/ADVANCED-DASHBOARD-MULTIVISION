@@ -1,0 +1,17 @@
+#Ignorar entorno virtual
+etl_entorno/
+
+#Ignorar archivos compilados de python
+
+__pycache__
+
+# Ignorar archivos de log
+
+*.log
+
+#Ignorar archivos con credenciales
+src/config.py
+
+
+__pycache__/
+*.pyc
